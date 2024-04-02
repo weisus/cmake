@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/app2.dir/sort.cpp.o  -o ../../bin/app2   -L/home/weisu/Documents/cmake/lib  -Wl,-rpath,/home/weisu/Documents/cmake/lib ../../lib/libsort.a 

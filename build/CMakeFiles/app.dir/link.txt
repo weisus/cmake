@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/add.cpp.o  -o app 

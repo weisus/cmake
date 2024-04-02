@@ -1,0 +1,14 @@
+/home/weisu/Documents/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/weisu/Documents/cmake/build/CMakeFiles/edit_cache.dir
+/home/weisu/Documents/cmake/build/calc/CMakeFiles/rebuild_cache.dir
+/home/weisu/Documents/cmake/build/calc/CMakeFiles/edit_cache.dir
+/home/weisu/Documents/cmake/build/calc/CMakeFiles/calc.dir
+/home/weisu/Documents/cmake/build/sort/CMakeFiles/rebuild_cache.dir
+/home/weisu/Documents/cmake/build/sort/CMakeFiles/edit_cache.dir
+/home/weisu/Documents/cmake/build/sort/CMakeFiles/sort.dir
+/home/weisu/Documents/cmake/build/test1/CMakeFiles/rebuild_cache.dir
+/home/weisu/Documents/cmake/build/test1/CMakeFiles/edit_cache.dir
+/home/weisu/Documents/cmake/build/test1/CMakeFiles/app1.dir
+/home/weisu/Documents/cmake/build/test2/CMakeFiles/rebuild_cache.dir
+/home/weisu/Documents/cmake/build/test2/CMakeFiles/edit_cache.dir
+/home/weisu/Documents/cmake/build/test2/CMakeFiles/app2.dir

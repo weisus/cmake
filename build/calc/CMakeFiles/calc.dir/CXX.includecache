@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.h
+
+/home/weisu/Documents/cmake/calc/add.cpp
+calc.h
+/home/weisu/Documents/cmake/calc/calc.h
+
+/home/weisu/Documents/cmake/calc/div.cpp
+calc.h
+/home/weisu/Documents/cmake/calc/calc.h
+
+/home/weisu/Documents/cmake/calc/mult.cpp
+calc.h
+/home/weisu/Documents/cmake/calc/calc.h
+
+/home/weisu/Documents/cmake/calc/sub.cpp
+calc.h
+/home/weisu/Documents/cmake/calc/calc.h
+

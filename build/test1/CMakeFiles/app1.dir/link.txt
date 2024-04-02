@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/app1.dir/calc.cpp.o  -o ../../bin/app1   -L/home/weisu/Documents/cmake/lib  -Wl,-rpath,/home/weisu/Documents/cmake/lib ../../lib/libcalc.a 

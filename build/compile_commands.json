@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/weisu/Documents/cmake/build/calc",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/calc.dir/add.cpp.o -c /home/weisu/Documents/cmake/calc/add.cpp",
+  "file": "/home/weisu/Documents/cmake/calc/add.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/calc",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/calc.dir/div.cpp.o -c /home/weisu/Documents/cmake/calc/div.cpp",
+  "file": "/home/weisu/Documents/cmake/calc/div.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/calc",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/calc.dir/mult.cpp.o -c /home/weisu/Documents/cmake/calc/mult.cpp",
+  "file": "/home/weisu/Documents/cmake/calc/mult.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/calc",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/calc.dir/sub.cpp.o -c /home/weisu/Documents/cmake/calc/sub.cpp",
+  "file": "/home/weisu/Documents/cmake/calc/sub.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/sort",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/sort.dir/insert.cpp.o -c /home/weisu/Documents/cmake/sort/insert.cpp",
+  "file": "/home/weisu/Documents/cmake/sort/insert.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/sort",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/sort.dir/select.cpp.o -c /home/weisu/Documents/cmake/sort/select.cpp",
+  "file": "/home/weisu/Documents/cmake/sort/select.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/test1",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/app1.dir/calc.cpp.o -c /home/weisu/Documents/cmake/test1/calc.cpp",
+  "file": "/home/weisu/Documents/cmake/test1/calc.cpp"
+},
+{
+  "directory": "/home/weisu/Documents/cmake/build/test2",
+  "command": "/usr/bin/g++   -I/home/weisu/Documents/cmake/include  -g   -o CMakeFiles/app2.dir/sort.cpp.o -c /home/weisu/Documents/cmake/test2/sort.cpp",
+  "file": "/home/weisu/Documents/cmake/test2/sort.cpp"
+}
+]
